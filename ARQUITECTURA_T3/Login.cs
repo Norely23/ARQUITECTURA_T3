@@ -26,5 +26,10 @@ namespace ARQUITECTURA_T3
         {
 
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+            CenterToScreen();
+        }
     }
 }
